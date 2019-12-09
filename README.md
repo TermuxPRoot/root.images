@@ -75,5 +75,4 @@ Now if you completed your proot work and you want to use your termux so now you 
 1) Just open a new session and exit from the previous session so now your LD_PRELOAD will be set automatically with the new session.
 
 2) If you don't want to open new session because of any reason, you can also export or set LD_PRELOAD path in the same session by executing this <code>export LD_PRELOAD=$PREFIX/lib/libtermux-exec.so</code>
-
 <!-- README.md OEF-->
